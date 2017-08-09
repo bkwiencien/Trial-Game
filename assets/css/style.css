@@ -1,0 +1,15 @@
+
+.image-drunkard{
+  height: 200px;
+  width:  200px;
+  left:   100px;
+  right:  100px;
+}
+.image-beer{
+	float: right;
+	height: 30px;
+	width:  30px;
+	right:  700px;
+	position: "relative";
+
+}
